@@ -5,3 +5,5 @@ This app will accept two inputs one for the bill amount and other one is for cas
 > This is an assignment for neog.camp admission Mark 10.
 
 Used HTML5, CSS3, Vanilla JS for building this app.
+
+[Try here] (https://ash3601.github.io/Mark10-Cash_Register_App/)
